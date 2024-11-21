@@ -6,21 +6,21 @@ class LibraryController {
   List<BookModel> book = [
     BookModel(
       id: 1,
-      judul: '3726 Mdpl',
-      deskripsi: 'gunung',
-      penerbit: 'Romancious',
-      fotoBuku: 'assets/3726.jpeg',
-      pengarang: 'Nirwana Sari',
+      judul: 'poster',
+      deskripsi: 'pelatihan canva',
+      penerbit: 'TRB TEAM',
+      fotoBuku: 'assets/f1.png',
+      pengarang: 'fateh',
       stok: 3,
 
     ),
     BookModel(
       id: 2,
-      judul: 'Laut Bercerita',
-      deskripsi: 'laut',
-      penerbit: 'Kepustakaan Populer Gramedia',
-      fotoBuku: 'assets/Laut.jpeg',
-      pengarang: 'Leila S. Chudori',
+      judul: 'infografis',
+      deskripsi: 'pelatihan canva',
+      penerbit: 'TRB TEAM',
+      fotoBuku: 'assets/f2.png',
+      pengarang: 'HABIB SYECH',
       stok: 9,
     ),
   ];
